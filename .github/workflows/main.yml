@@ -97,4 +97,4 @@ jobs:
             -H "Accept: application/vnd.github.v4+json" \
             -H "Content-Type: application/json" \
             -d "$GRAPHQL_QUERY" \
-            https://api.github.com/graphql
+            https://api.github.com/graphql 
